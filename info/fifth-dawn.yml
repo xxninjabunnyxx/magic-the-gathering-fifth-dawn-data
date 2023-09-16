@@ -1,0 +1,21 @@
+---
+object: set
+id: e4bc1b87-5476-463c-8640-4c414ecf1763
+code: 5dn
+mtgo_code: 5dn
+arena_code: 5dn
+tcgplayer_id: 43
+name: Fifth Dawn
+uri: https://api.scryfall.com/sets/e4bc1b87-5476-463c-8640-4c414ecf1763
+scryfall_uri: https://scryfall.com/sets/5dn
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A5dn&unique=prints
+released_at: '2004-06-04'
+set_type: expansion
+card_count: 165
+printed_size: 165
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: mrd
+block: Mirrodin
+icon_svg_uri: https://svgs.scryfall.io/sets/5dn.svg?1694404800
